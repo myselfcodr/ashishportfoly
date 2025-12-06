@@ -59,7 +59,7 @@ const About = () => {
                 <h4 className="h4 testimonials-item-title">{item.name}</h4>
 
                 <div className="testimonials-text">
-                  <p>{item.message}</p>
+                  <p>{item.comment}</p>
                 </div>
               </div>
             </li>
